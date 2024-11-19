@@ -40,3 +40,4 @@ function createProfileDiv(fname, lname, sex, age){
     `;
     return htmlCode;
 }
+
